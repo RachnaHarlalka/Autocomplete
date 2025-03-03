@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "name": "Marina Augustine",
+        "email": "marina@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "2",
+        "name": "Nick Gianopolous",
+        "email": "nick@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "3",
+        "name": "Narayana Gamer",
+        "email": "narayana@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "4",
+        "name": "Anita Gros",
+        "email": "anita@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "5",
+        "name": "Megan Smith",
+        "email": "megan@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "6",
+        "name": "John Doe",
+        "email": "john@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "7",
+        "name": "Robert Frost",
+        "email": "robert@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "8",
+        "name": "Will Smith",
+        "email": "will@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "9",
+        "name": "Jackie Chan",
+        "email": "jackie@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      },
+      {
+        "id": "10",
+        "name": "Lionel Messi",
+        "email": "lionel@gmail.com",
+        "avatar": "https://picsum.photos/100/100"
+      }
+    ]
+  }
